@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dennis Murimi</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate developer from Kenya</h3>
 <img align="right" alt="Duck" width="400" src="https://imgs.search.brave.com/LvXdykz3anX9eLeolAPRBmcL4dvf1VA9mLQkZCv97xA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtY2hvY2stY29k/aW5nLWM3OGY2ZWxq/MzJzZm9pOHEuZ2lm.gif">
 
 - 🔭 I’m currently working on **Music Streaming Platform**
@@ -17,6 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/effecerefforts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="effecerefforts" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dennis munyua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dennis munyua" height="30" width="40" /></a>
 <a href="https://instagram.com/aizen._reyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aizen._reyes" height="30" width="40" /></a>
 </p>
 
