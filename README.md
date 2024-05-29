@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munyua-arch&label=Profile%20views&color=0e75b6&style=flat" alt="munyua-arch" /> </p>
 
-- 🔭 I’m currently working on **Music Streaming Platform**
+- 🔭 I’m currently working on **Restaurant POS system**
 
 - 🌱 I’m currently learning **Flutter**
 
