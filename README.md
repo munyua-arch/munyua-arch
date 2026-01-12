@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munyua-arch&label=Profile%20views&color=0e75b6&style=flat" alt="munyua-arch" /> </p>
 
-- 🔭 I’m currently working on **ISP Billing System**
+- 🔭 I’m currently working on **Skul-Data SaaS Platform**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Software Architecture**
 
-- 🤝 I’m looking for help with **API Development**
+- 🤝 I’m looking for help with **Kuernetes**
 
 - 💬 Ask me about **Software development**
 
